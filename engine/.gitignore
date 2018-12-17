@@ -1,0 +1,6 @@
+err.txt
+out.txt
+.classpath
+.project
+lib/
+*.class
